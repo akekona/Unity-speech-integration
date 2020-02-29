@@ -9,10 +9,12 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/[Mm]aterials/
 
 # IBM Watson SDK
-/IBMSdkCore-2.13.0/
+/Assets/IBMSdkCore-2.13.0/
+
+# Material demo data
+/[Mm]aterials/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
