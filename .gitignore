@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Mm]aterials/
 
 # IBM Watson SDK
 /IBMSdkCore-2.13.0/
