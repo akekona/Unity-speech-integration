@@ -1,6 +1,5 @@
 # Unity Speech Integration with IBM Watson
-This was created during my time at Code Chrysalis
-
+_This was created during my time as a student at <a href="https://www.codechrysalis.io/" target="_blank">Code Chrysalis</a>._  
 ## Create new Unity Project
 * A free Unity account (Personal edition) can be created [here](https://store.unity.com/?_ga=2.156802105.347283067.1582780215-1452651087.1580312243#plans-individual)
 * Create a new 3D Project
